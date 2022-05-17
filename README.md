@@ -16,12 +16,18 @@ Pretendemos mitigar tais problemas através de um aplicativo mobile que visa uma
 2- Além disso, foi pensando na possibilidade de um acompanhamento semanal com um médico através de uma sessão realizada por video conferência, onde o paciente pode compartilhar com o mesmo suas anotações semanais e receber recomendações de atividades personalizadas para serem realizadas durante a semana. Tais atividades estariam ligadas às notificações do aplicativo, podendo ser integradas a algum calendário como o Google Agenda, facilitando assim a organização e o cumprimento das mesmas.
 
 # Colaboradores
-[Matheus Eduardo](https://github.com/HurleySA)\
+[Matheus Eduardo](https://github.com/HurleySA)\    
 [Marcos Silva](https://github.com/marcossilvaxx)\
-[Pedro Adrian](https://github.com/adrianmartinez-cg)\
+[Pedro Adrian](https://github.com/adrianmartinez-cg)\   120110295
 [Nathan Andrade](https://github.com/Nathan4Andrade)\
 [Paulo Hernane](https://github.com/PauloHFS)
 
+# Matrículas
+Matheus Eduardo - 116211262
+Marcos Silva- 
+Pedro Adrian- 120110295
+Nathan Andrade- 
+Paulo Hernane- 119210311
 
 
 
