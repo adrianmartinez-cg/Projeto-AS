@@ -11,9 +11,12 @@ divulgado pela Organização Mundial da Saúde (OMS). O resumo também mostra o 
 ## Solução proposta
 
 Pretendemos mitigar tais problemas através de um aplicativo mobile que visa uma melhora da saúde mental do paciente como um todo. Algumas das principais funcionalidades pensadas foram:
-1- Um local onde o paciente pode diariamente informar sua situação emocional, através de anotações e marcadores como "emojis". Além disso, ele irá receber sugestões de atividades pelo aplicativo, que visam melhorar seu estado psicológico. Por exemplo, o aplicativo poderia sugerir fazer atividades físicas , ou determinadas atividades prazerosas, indicar a ingestão de certos alimentos que são aliados da saúde mental,etc. 
 
-2- Além disso, foi pensando na possibilidade de um acompanhamento semanal com um médico através de uma sessão realizada por video conferência, onde o paciente pode compartilhar com o mesmo suas anotações semanais e receber recomendações de atividades personalizadas para serem realizadas durante a semana. Tais atividades estariam ligadas às notificações do aplicativo, podendo ser integradas a algum calendário como o Google Agenda, facilitando assim a organização e o cumprimento das mesmas.
+1- Um local onde o paciente pode diariamente informar sua situação emocional, através de anotações e da escolha pelo paciente das principais emoções sentidas  naquele momento, através de uma interface gráfica com botões. 
+
+2- Além disso, ele irá receber sugestões (ou dicas) de atividades pelo aplicativo, que visam melhorar seu estado psicológico. Por exemplo, o aplicativo poderia sugerir fazer atividades físicas , ou determinadas atividades prazerosas, indicar a ingestão de certos alimentos que são aliados da saúde mental,etc. 
+
+3- Também foi pensado na possibilidade de um acompanhamento semanal com um médico através de uma sessão realizada por video conferência, onde o paciente pode compartilhar com o mesmo suas anotações semanais e receber recomendações de atividades personalizadas para serem realizadas durante a semana. Tais atividades estariam ligadas às notificações do aplicativo, podendo ser integradas a algum calendário como o Google Agenda, facilitando assim a organização e o cumprimento das mesmas.
 
 # Colaboradores
 [Matheus Eduardo](https://github.com/HurleySA)\    
@@ -24,7 +27,7 @@ Pretendemos mitigar tais problemas através de um aplicativo mobile que visa uma
 
 # Matrículas
 Matheus Eduardo - 116211262 \
-Marcos Silva- \
+Marcos Silva- 119111008 \
 Pedro Adrian- 120110295 \
 Nathan Andrade- \
 Paulo Hernane- 119210311
