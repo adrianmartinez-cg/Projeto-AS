@@ -18,7 +18,7 @@ Pretendemos mitigar tais problemas através de um aplicativo mobile que visa uma
 # Colaboradores
 [Matheus Eduardo](https://github.com/HurleySA)\    
 [Marcos Silva](https://github.com/marcossilvaxx)\
-[Pedro Adrian](https://github.com/adrianmartinez-cg)\   120110295
+[Pedro Adrian](https://github.com/adrianmartinez-cg)\
 [Nathan Andrade](https://github.com/Nathan4Andrade)\
 [Paulo Hernane](https://github.com/PauloHFS)
 
