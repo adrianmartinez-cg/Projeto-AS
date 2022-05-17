@@ -14,5 +14,9 @@ Pretendemos mitigar tais problemas através de um Aplicativo que visa uma melhor
 
 Além disso, há um acompanhamento semanal com um médico através de uma sessão realizada por video conferência, onde o paciente pode compartilhar com o mesmo as anotações semanais e receber recomendações de atividades personalizadas para serem realizadas durante a semana.
 
+# Colaboradores
+[Matheus Eduardo](https://github.com/HurleySA)\
+[Marcos Silva](https://github.com/marcossilvaxx)\
+[Pedro Adrian](https://github.com/adrianmartinez-cg)\
 
 
