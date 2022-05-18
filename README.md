@@ -29,7 +29,7 @@ Pretendemos mitigar tais problemas através de um aplicativo mobile que visa uma
 Matheus Eduardo - 116211262 \
 Marcos Silva- 119111008 \
 Pedro Adrian- 120110295 \
-Nathan Andrade- \
+Nathan Andrade- 118110494\
 Paulo Hernane- 119210311
 
 
